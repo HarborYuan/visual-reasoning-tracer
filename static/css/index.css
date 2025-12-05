@@ -121,10 +121,16 @@ body {
   border-radius: 10px;
   padding: 0;
   font-size: 0;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .results-carousel video {
   margin: 0;
+  height: 100%;
+  width: auto;
 }
 
 
